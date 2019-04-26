@@ -1,0 +1,26 @@
+body.login:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* background: url("../images/af_weights.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#login {
+    width: 319px;
+}
+
+.login h1 a {
+    background-image: url('../images/logo.png');
+    background-size: inherit;
+    width: 127px;
+    height: 120px;
+    margin-bottom: 20px;
+}

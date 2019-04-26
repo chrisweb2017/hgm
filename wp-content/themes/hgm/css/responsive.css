@@ -1,0 +1,134 @@
+@media only screen and (max-width:1040px){header#mainHdr{height:90px;}
+ header#mainHdr #hdrRight{height:90px;width:440px;}
+ header#mainHdr #hdrRight #headerTop{padding-bottom:10px;}
+ header#mainHdr #logo img{top:8px;transform:none;width:auto;height: 68px;}
+ header#mainHdr,header#mainHdr.notAtTop,header#mainHdr.notAtTop #hdrRight{height: 80px;}
+ .responsive-menu-box{height: 30px !important;}
+ #contentWrap{padding-top:100px;}
+ .contactLeft{width:36.53846153846153%;}
+ .contactRight{width:55.38461538461539%;}
+ #contentWrap .sectionTitle{flex-direction:column;}
+ #contentWrap .sectionTitle h2{font-size:28px;}
+ #collectionsWrap .halfBlock{background-color:#CCC;}
+ #collectionsWrap .halfBlock:hover{background-color:rgba(23, 104, 69, .8);}
+ #collectionsWrap .halfBlock .blockTitle{background-color:transparent;display:inherit;padding:10px;position:relative;text-align:center;}
+ #collectionsWrap .halfBlock:hover .blockTitle{background-color:transparent;}
+ #collectionsWrap .halfBlock .blockTitle p{font-size:20px;margin-bottom:10px;padding-right:inherit;}
+ #collectionsWrap .halfBlock .blockTitle p br{display:none;}
+ #collectionsWrap .halfBlock .imageWrap{overflow:hidden;}
+ #wideBanner .wideBanner-content{padding:37px 30px 26px;}
+ #wideBanner .centerAlign{text-align:center;}
+ #wideBanner h3{font-size:50px;}
+ #wideBanner .spanText{font-size:22px;}
+ #whiteBanner{padding:20px 10px;}
+ #whiteBanner .col-half{padding:20px 0 40px;width:100%;}
+ #whiteBanner .small-text{justify-content:center;}
+ #whiteBanner .small-text h3{padding-right:10px;}
+ #whiteBanner h2{text-align:center;}
+ #whiteBanner iframe{border:0;height:200px;position:relative;width:100%;}
+ #pageTop{display:none;}
+ #pageTop.page-banner-mobile{display:block;}
+}
+@media only screen and (max-width:900px){header#mainHdr nav ul li{padding:0px 10px;}
+ header#mainHdr nav ul li:first-child{padding-left:0px;}
+ header#mainHdr nav ul li:last-child{padding-right:0px;}
+ #adSpaceWrap{font-size:36px;}
+ #contentWrap #whiteBanner h2{font-size:50px;}
+ #wideBanner{padding:45px 10px;}
+ #wideBanner .centerAlign .wideBanner-content{background-size:cover;}
+ #wideBanner .centerAlign h3{font-size:50px;}
+ #wideBanner .centerAlign .spanText{font-size:22px;padding:0 20px;}
+ #wideBanner .centerAlign ul{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}
+ #wideBanner .centerAlign ul li{background-size:4%;}
+}
+@media only screen and (max-width:885px){footer #footerColumns #newsletterWrap{width:100%;display:block;margin-top:30px;text-align:center;}
+ footer #footerColumns .f-column #newsLetterWrap{margin-left:auto;margin-right:auto;}
+ footer #footerSmall{text-align:center;}
+}
+@media only screen and (max-width:800px){#blogRight, #blogLeft{margin:0px;padding:0px;float:none;width:100%;}
+ #blogLeft #blogInner{width:100%;margin:0px;border:0px;padding:0px;}
+ #contentWrap #whiteBanner h3{font-size:33px;}
+ #galleryWrapper div.comparison{margin-bottom:15px;margin-left:0;}
+ #galleryWrapper .flex-wrap{flex-direction:column;}
+}
+@media only screen and (max-width:750px){header#mainHdr #hdrRight{display:block;padding-top:10px;}
+ header#mainHdr #hdrRight #headerTop #socialIconsWrap{display:none;}
+ #pageTop{height:150px;}
+ .sectionTitle{height:auto;text-align:center;}
+ #contentWrap .sectionTitle h2{float:none;display:inline-block;}
+ .sectionTitle a{display:none;}
+ #wideBanner .leftAlign{margin:0 auto;width:auto;}
+ #contentWrap #blogWrap .blogItem .blogInfo h2{line-height:23px;margin-bottom:5px;}
+ #blogWrap{display:block;}
+ #blogWrap .blogItem{width:483px;margin-left:auto;margin-right:auto;}
+ #lettersWrap .letter-icon{margin:6px;}
+ #lettersWrap{-webkit-justify-content:center;justify-content:center;}
+ #wideBanner .leftAlign h3, #wideBanner .centerAlign h3{font-size:40px;}
+ #wideBanner .centerAlign .spanText{font-size:18px;}
+ .service{flex-direction:column;}
+ #responsive-menu-container #responsive-menu-title #responsive-menu-title-image{margin-bottom: 0 !important;}
+ #responsive-menu-container #responsive-menu-title #responsive-menu-title-image img{max-width:100%;}
+ footer #footerLogo img{max-width:250px;}
+}
+@media only screen and (max-width:700px){#contentTop h1{font-size:30px;}
+ .contactLeft, .contactRight{width:100%;float:none;margin-bottom:30px;}
+ .sectionWrap{text-align:center;}
+ #contentWrap .sectionWrap h3 .fa{display:block;margin-bottom:8px;font-size:39px;}
+ #contentWrap{min-height:auto;}
+}
+@media only screen and (max-width:650px){header#mainHdr #hdrRight #headerTop #contactWrap, #contentWrap #whiteBanner h3{font-size:28px;}
+ #wideBanner{background-position:center;height:inherit;padding:20px;}
+ #wideBanner .centerAlign .wideBanner-content{padding:0;width:100%;}
+ #wideBanner .centerAlign h3{font-size: 30px;}
+ #wideBanner .centerAlign ul{margin-top:20px;padding-left:0;}
+ #wideBanner .centerAlign ul li{font-size:18px;padding-left:30px;padding-right:0;}
+ #wideBanner a.button-link{display:inline-block;margin-bottom:20px;}
+ #whiteBanner h2{padding-top:5px;}
+ #whiteBanner .social-icons a{width:30px;height:29px;font-size:20px;}
+ footer #footerColumns{display:block;text-align:center;}
+ footer #footerColumns .f-column{margin-bottom:40px;}
+ footer #footerColumns .f-column ul{display:flex;flex-wrap:wrap;justify-content:center;}
+ footer #footerColumns .f-column ul li a{padding:0 10px;}
+ footer #footerColumns .f-column.shop-column{margin-right:0;}
+ footer #footerLogo{position:relative;padding-bottom:0;}
+ footer #footerLogo img{position:relative;left:inherit;margin:0 auto 20px;transform:inherit;}
+}
+@media only screen and (max-width:600px){#hdrRight{display:none;}
+}
+@media only screen and (max-width:550px){#collectionsWrap .halfBlock{width:100%;}
+ header#mainHdr #hdrRight #headerTop #contactWrap{display:none;}
+ header#mainHdr{height:85px;}
+ .responsive-menu-button{top:22px !important;}
+ #contentWrap{padding-top:85px;}
+ #contentWrap .sectionTitle h2{font-size:24px;}
+}
+@media only screen and (max-width:523px){
+ #collectionsWrap .blocksWrap{width:100%;}
+ #contentWrap #wideBanner .leftAlign h3{font-size:30px !important;line-height:33px;}
+ #wideBanner .leftAlign span.spanText{line-height:20px;display:block;}
+ #responsive-menu-container{width:70%;}
+ #blogWrap .blogItem{width:auto;}
+ /*#wideBanner{font-size:25px;}*/
+ div.comparison{width:200px;height:200px;margin:0 15px 30px;max-width:200px;max-height:200px;overflow:hidden;}
+}
+@media only screen and (max-width:450px){#wideBanner .centerAlign h3{font-size:22px;}
+ body{font-size:16px;}
+ #wideBanner .centerAlign span.spanText{font-size:16px;line-height:1.2;}
+ #wideBanner .centerAlign ul li{font-size:15px;margin:10px 0;}
+ #collectionsWrap .halfBlock .blockTitle p{font-size:20px;}
+ #contentWrap .sectionTitle h2{font-size:20px;}
+ #contentWrap #whiteBanner h2{font-size:30px;}
+ .rev_slider .tp-mask-wrap .tp-caption.banner-content {transform: scale(.85) !important;}
+}
+@media only screen and (max-width:400px){#contactUsBtn{font-size:18px;}
+ #whiteBanner .small-text{flex-direction:column;}
+ #whiteBanner .small-text h3{padding-right:0;padding-bottom:10px;margin-right: 0;}
+}
+@media only screen and (max-width:373px){
+ #contentWrap #wideBanner .leftAlign h3 span{font-size:25px !important;}
+ button#responsive-menu-button{top:1px;}
+ #pageTop.page-banner-mobile{background-size: contain;height: 82px;}
+}
+@media only screen and (max-height:400px){#responsive-menu-container #responsive-menu-title{display:none;}
+ #responsive-menu-container #responsive-menu{padding-top:30px;}
+}

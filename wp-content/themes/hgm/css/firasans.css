@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'fira_sansbook';
+    src: url('fonts/firasans/firasans-book-webfont.eot');
+    src: url('fonts/firasans/firasans-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/firasans/firasans-book-webfont.woff2') format('woff2'),
+         url('fonts/firasans/firasans-book-webfont.woff') format('woff'),
+         url('fonts/firasans/firasans-book-webfont.ttf') format('truetype'),
+         url('fonts/firasans/firasans-book-webfont.svg#fira_sansbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'fira_sanslight';
+    src: url('fonts/firasans/firasans-light-webfont.eot');
+    src: url('fonts/firasans/firasans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/firasans/firasans-light-webfont.woff2') format('woff2'),
+         url('fonts/firasans/firasans-light-webfont.woff') format('woff'),
+         url('fonts/firasans/firasans-light-webfont.ttf') format('truetype'),
+         url('fonts/firasans/firasans-light-webfont.svg#fira_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'fira_sanslight_italic';
+    src: url('fonts/firasans/firasans-lightitalic-webfont.eot');
+    src: url('fonts/firasans/firasans-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/firasans/firasans-lightitalic-webfont.woff2') format('woff2'),
+         url('fonts/firasans/firasans-lightitalic-webfont.woff') format('woff'),
+         url('fonts/firasans/firasans-lightitalic-webfont.ttf') format('truetype'),
+         url('fonts/firasans/firasans-lightitalic-webfont.svg#fira_sanslight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'fira_sansbold';
+    src: url('fonts/firasans/firasans-bold-webfont.eot');
+    src: url('fonts/firasans/firasans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/firasans/firasans-bold-webfont.woff2') format('woff2'),
+         url('fonts/firasans/firasans-bold-webfont.woff') format('woff'),
+         url('fonts/firasans/firasans-bold-webfont.ttf') format('truetype'),
+         url('fonts/firasans/firasans-bold-webfont.svg#fira_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
